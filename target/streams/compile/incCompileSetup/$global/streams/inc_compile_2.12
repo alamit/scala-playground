@@ -1,0 +1,209 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+8 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal$$anonfun$$lessinit$greater$1.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal$.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Signal$.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Signal.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/StackableVariable.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Var$.class
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Var.class
+binary dependencies:
+6 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> /Users/adrienlamit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> /Users/adrienlamit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Users/adrienlamit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+1 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> /Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala
+inheritance external dependencies:
+0 items
+class names:
+8 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign.week4.frp.NoSignal
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign.week4.frp.NoSignal$
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign.week4.frp.NoSignal$$anonfun$$lessinit$greater$1
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign.week4.frp.Signal
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign.week4.frp.Signal$
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> fundesign.week4.frp.StackableVariable
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> fundesign.week4.frp.Var
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> fundesign.week4.frp.Var$
+used names:
+96 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> !=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> +
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> <byname>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> <init>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> ???
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> A
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Any
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> AnyRef
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Boolean
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> DynamicVariable
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Function0
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Function1
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> NoSignal
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Nothing
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Object
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Predef
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> S
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Set
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Signal
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> T
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> U
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> Unit
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> _$1
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> _$2
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> _root_
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> apply
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> assert
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> caller
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> computeValue
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> contains
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> empty
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> expr
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> foreach
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> frp
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> fundesign
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> myExpr
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> myExpr_=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> myValue
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> myValue_=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> newValue
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> obs
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> observers
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> observers_=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> scala
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> unary_!
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> update
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> util
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> value
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> week4
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> withValue
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> ::
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> <byname>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> <init>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> <repeated>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> A
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> Any
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> AnyRef
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> B
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> List
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> Nothing
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> Object
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> R
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> StackableVariable
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> T
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> Unit
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> _root_
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> apply
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> collection
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> frp
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> fundesign
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> head
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> immutable
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> init
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> newValue
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> op
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> package
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> scala
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> tail
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> values
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> values_=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> week4
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> <byname>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> <init>
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> AnyRef
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> Object
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> Signal
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> T
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> Unit
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> Var
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> _root_
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> expr
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> frp
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> fundesign
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> scala
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> update
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> week4
+product stamps:
+8 items
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal$.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/NoSignal.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Signal$.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Signal.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/StackableVariable.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Var$.class -> lastModified(1487687289000)
+/Users/adrienlamit/scala-playground/target/scala-2.12/classes/fundesign/week4/frp/Var.class -> lastModified(1487687289000)
+source stamps:
+3 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> hash(8387189058d4b3d1b0ae87615b72098a7c56131b)
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> hash(c9e1f88f0dc83bdcd9004fb9891530fe4380367d)
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> hash(f200e262155d6f60b19ff7cb4f35af7b9c6806aa)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/adrienlamit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/adrienlamit/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Unit
+internal apis:
+3 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwktAyggAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhJd8X3QABm5vdGlmeXNxAH4ADE7+6Tl0AAR3YWl0c3EAfgAM3CrK6XQADSRhc0luc3RhbmNlT2ZzcQB+AAxbbSWWdAAGU2lnbmFsc3EAfgAMs1I7bHQABmVxdWFsc3NxAH4ADI1Sf290AAxhc0luc3RhbmNlT2ZzcQB+AAwjTTMDdAAMc3luY2hyb25pemVkc3EAfgAMd3EqfnQADSRpc0luc3RhbmNlT2ZzcQB+AAzZ9PRSdAAJbm90aWZ5QWxsc3EAfgAMjSGDAnQADGlzSW5zdGFuY2VPZnNxAH4ADD64WUN0AAhOb1NpZ25hbHNxAH4ADLs/Ltp0AAY8aW5pdD5zcQB+AAzvCMDbdAAFYXBwbHlzcQB+AAzr35ZhdAACPT1zcQB+AAwxXfcHdAAFY2xvbmVzcQB+AAz0tP7BdAAIdG9TdHJpbmdzcQB+AAxV+t6bdAACIT1zcQB+AAzIS8o0dAAMY29tcHV0ZVZhbHVlc3EAfgAMo7Mo9XQACGdldENsYXNzc3EAfgAM0fx+bnQABnVwZGF0ZXNxAH4ADCoYpYh0AAJuZXNxAH4ADLR7WoB0AAJlcXNxAH4ADGM/e650AAIjI3NxAH4ADEmqdNp0AAhmaW5hbGl6ZXNxAH4ADJD4GuV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAANzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABpmdW5kZXNpZ24ud2VlazQuZnJwLlNpZ25hbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGZzcQB+AGF1cQB+AEQAAAAAc3EAfgBhdXEAfgBEAAAAAHNxAH4AYXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Af3NxAH4AcnQAA0FueXN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
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwx6LorAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwBBRVQXQABm5vdGlmeXNxAH4ADNlVtgt0AAR3YWl0c3EAfgAMSAc+pXQADSRhc0luc3RhbmNlT2ZzcQB+AAy909qKdAAGZXF1YWxzc3EAfgAM/YZpQ3QACXdpdGhWYWx1ZXNxAH4ADPtQNHF0AAxhc0luc3RhbmNlT2ZzcQB+AAyDEC34dAAMc3luY2hyb25pemVkc3EAfgAM3gdnI3QADSRpc0luc3RhbmNlT2ZzcQB+AAw1V3dLdAAJbm90aWZ5QWxsc3EAfgAMu0WjD3QADGlzSW5zdGFuY2VPZnNxAH4ADG+d0310ABFTdGFja2FibGVWYXJpYWJsZXNxAH4ADGJTw+R0AAY8aW5pdD5zcQB+AAwlNlCVdAACPT1zcQB+AAzdaSuadAAFY2xvbmVzcQB+AAwOrObadAAIdG9TdHJpbmdzcQB+AAyRMTFcdAACIT1zcQB+AAwhdzjPdAAIZ2V0Q2xhc3NzcQB+AAxDapRkdAACbmVzcQB+AAzC1Lg4dAAFdmFsdWVzcQB+AAzZ8GZedAACZXFzcQB+AAwdFNIudAACIyNzcQB+AAxEc34ydAAIZmluYWxpemVzcQB+AAzluMLndAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAlZnVuZGVzaWduLndlZWs0LmZycC5TdGFja2FibGVWYXJpYWJsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgBKTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4AR0wACnVwcGVyQm91bmRxAH4AWEwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4AUAAAAAB0ACdmdW5kZXNpZ24ud2VlazQuZnJwLlN0YWNrYWJsZVZhcmlhYmxlLlRzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwdAAHTm90aGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AbHVxAH4AVQAAAABzcQB+AF10AANBbnlxAH4AZX5yABJ4c2J0aS5hcGkuVmFyaWFuY2UAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAlJbnZhcmlhbnR+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cQB+AHV0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AX3NxAH4AfXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGBzcQB+AH11cQB+AEAAAAAAc3EAfgB9dXEAfgBAAAAAAHNxAH4AfXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBddAAGT2JqZWN0c3EAfgBjc3EAfgBmdXEAfgBpAAAAA3NxAH4Aa3QABGphdmFzcQB+AGt0AARsYW5ncQB+AHBzcQB+AF1xAH4Ac3NxAH4AY3NxAH4AZnVxAH4AaQAAAAJzcQB+AGtxAH4AbnEAfgBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATZnVuZGVzaWduLndlZWs0LmZycHNxAH4AnHQAD2Z1bmRlc2lnbi53ZWVrNHNxAH4AnHQACWZ1bmRlc2lnbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmESfRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2FkcmllbmxhbWl0L3NjYWxhLXBsYXlncm91bmQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMnh+I8NyDvc2QBPuYkVMP5DgDZ9
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPVaM8wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQ+MNuHQABm5vdGlmeXNxAH4ADEJgGlR0AAR3YWl0c3EAfgAMMydvQ3QADSRhc0luc3RhbmNlT2ZzcQB+AAwwGJfJdAADVmFyc3EAfgAMSnQbKXQABmVxdWFsc3NxAH4ADLSrfJx0AAxhc0luc3RhbmNlT2ZzcQB+AAxHX7oydAAMc3luY2hyb25pemVkc3EAfgAMcIh9P3QADSRpc0luc3RhbmNlT2ZzcQB+AAx/FHg8dAAJbm90aWZ5QWxsc3EAfgAM/QbjwnQADGlzSW5zdGFuY2VPZnNxAH4ADH9Yxr90AAY8aW5pdD5zcQB+AAyWRaVddAAFYXBwbHlzcQB+AAx64ndudAACPT1zcQB+AAyd4MF0dAAFY2xvbmVzcQB+AAyG8Nf0dAAIdG9TdHJpbmdzcQB+AAxDpmnUdAACIT1zcQB+AAyGh5PSdAAMY29tcHV0ZVZhbHVlc3EAfgAMp9ig4XQACGdldENsYXNzc3EAfgAMMYCAB3QABnVwZGF0ZXNxAH4ADKU3XTJ0AAJuZXNxAH4ADLmhGKt0AAJlcXNxAH4ADFXj1x50AAIjI3NxAH4ADP4Wpmh0AAhmaW5hbGl6ZXNxAH4ADGWWg2R0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABdmdW5kZXNpZ24ud2VlazQuZnJwLlZhcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGRzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AY3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AfHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfXNxAH4AcHQAA0FueXNxAH4AdHNxAH4Ad3VxAH4AegAAAAJzcQB+AHx0AAVzY2FsYXEAfgCDc3EAfgBEcQB+AFF1cQB+AFIAAAAAc3EAfgBUAHQAF2Z1bmRlc2lnbi53ZWVrNC5mcnAuVmFydXEAfgBXAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4ATEwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AElMAAp1cHBlckJvdW5kcQB+AJFMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFIAAAAAdAAZZnVuZGVzaWduLndlZWs0LmZycC5WYXIuVHNxAH4AcHQAB05vdGhpbmdzcQB+AHRzcQB+AHd1cQB+AHoAAAACc3EAfgB8cQB+AIpxAH4Ag3VxAH4AVwAAAABzcQB+AHBxAH4AhXEAfgCYfnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHEAfgBadAAJSW52YXJpYW50fnEAfgBZdAAIQ2xhc3NEZWZ1cQB+AF0AAAAAc3EAfgBfcQB+AGVzcQB+AF9zcQB+AGdzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXEAfgBCAAAAAHNxAH4AX3VxAH4AbgAAAANzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGNzcQB+AHB0AAZTaWduYWxzcQB+AHRzcQB+AHd1cQB+AHoAAAAEc3EAfgB8dAAJZnVuZGVzaWduc3EAfgB8dAAFd2VlazRzcQB+AHx0AANmcnBxAH4Ag3VxAH4AbgAAAAFzcgAWeHNidGkuYXBpLlBhcmFtZXRlclJlZj/Y4zkALHOwAgABTAACaWRxAH4ADXhxAH4AY3QAGWZ1bmRlc2lnbi53ZWVrNC5mcnAuVmFyLlRzcQB+AHBxAH4Ac3NxAH4AdHNxAH4Ad3VxAH4AegAAAANzcQB+AHxxAH4Af3NxAH4AfHEAfgCBcQB+AINzcQB+AHBxAH4AhXNxAH4AdHNxAH4Ad3VxAH4AegAAAAJzcQB+AHxxAH4AinEAfgCDdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAANzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAATZnVuZGVzaWduLndlZWs0LmZycHNxAH4AzHQAD2Z1bmRlc2lnbi53ZWVrNHNxAH4AzHQACWZ1bmRlc2lnbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmESfRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2FkcmllbmxhbWl0L3NjYWxhLXBsYXlncm91bmQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPIA4mIVXW9gsZ/3y081r3ucaAaq
+external apis:
+0 items
+source infos:
+3 items
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Signal.scala -> 
+AAAAAAAAAAA=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/StackableVariable.scala -> 
+AAAAAAAAAAA=
+/Users/adrienlamit/scala-playground/src/main/scala/fundesign/week4/frp/Var.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbEg/4B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9hZHJpZW5sYW1pdC9zY2FsYS1wbGF5Z3JvdWQvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmESfRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9hZHJpZW5sYW1pdC9zY2FsYS1wbGF5Z3JvdW5kL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
